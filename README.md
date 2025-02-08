@@ -12,7 +12,7 @@ The Nebula tunnel script is an advanced tunneling solution featuring traffic obf
 # Installation Script
 To install, simply run the following command on your server
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/MrAminiDev/NebulaTunnel/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ExPLoSiVe1988/NebulaTunnel/main/install.sh)
 ```
 <div align="center"><br>
 <p>Video tutorial for installation</p>
